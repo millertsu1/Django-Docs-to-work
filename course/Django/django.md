@@ -1,6 +1,6 @@
 #Learning 
 
-[[Como trabajar con un Repositorio Remoto de Django]]
+### [Como trabajar con un Repositorio Remoto de Django](../../articles/Como%20trabajar%20con%20un%20Repositorio%20Remoto%20de%20Django.md)📃
 
 ## Plan de estudios
 ### Semana 1: Fundamentos de Django y Modelos
@@ -214,12 +214,14 @@ recetas/
 
 ### Vistas(views en Django)
 
+![](../../Images/Vistas%20en%20Django.png)
+
 las vistas(views), en Django son funcionalidades que toman requerimientos web y retornan una respuesta, estas respuestas pueden ser contenidos HTML de nuestra pagina web, una redirección, una imagen o en realidad cualquier cosa. **La vista en si misma contiene la lógica necesaria para retornar esa respuesta**.
 
 Estas vistas se crean en el archivo `views.py`, y por cada aplicación se genera una archivo que guardara la lógica de esta aplicación específicamente.
 
 ## Pasos iniciales con Django I
-#### [[Primeros pasos]]
+ ![](../../Images/Primeros%20pasos%20con%20Django.png)
 
 1. creamos la carpeta que contendrá nuestro proyecto. Esta creación puede ser manual o mediante el código.
 
@@ -327,4 +329,4 @@ Un **serializador** es como un **"traductor" o "empaquetador"** que toma sus obj
 
 Pero no solo eso, ¡también funciona al revés! Si el celular quiere comprar una camiseta, nos enviará una "ficha de pedido" en formato JSON. El serializador también puede tomar ese JSON, **validar** que la información sea correcta (que el precio sea un número, que el stock no sea negativo, etc.) y luego **convertirla de nuevo** en un objeto de Django para guardarlo en nuestra base de datos.
 
-[[Serializers sintaxis]]
+![](../../Images/Serializers%20sintaxis.png)

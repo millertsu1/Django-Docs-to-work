@@ -2,6 +2,10 @@
 
 #Programming #Learning 
 
+### [Conceptos Iniciales de TypeScript](https://docs.google.com/presentation/d/1m5HRJzak6AX4W1Oj0oPIvibWq0RQNFHHKCsUuHxSmlo/edit?usp=sharing) 📃
+
+![alt text](image.png)
+
 
 El camino mas seguro para poder iniciarse en el Desarrollo es conocer las bases, aquí  iniciaremos con lenguajes core del desarrollo web(HTML, CSS y JavaScript). Estos son los recursos para aprender desarrollo web y los lenguajes comentados arriba:
 

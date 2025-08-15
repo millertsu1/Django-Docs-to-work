@@ -1,0 +1,9 @@
+# 1. Docker pasos iniciales
+ #Learning #Docker
+
+ ## [docker docs](https://docker-curriculum.com/)
+
+1.  Vamos a la pagina de Docker y descargamos Docker Desktop en el enlace [Download Docker Desktop](https://www.docker.com/products/docker-desktop/)
+2. Damos clic al botón  `Download Docker Desktop`, este se desplegara permitiéndonos elegir la opción correcta de Docker de acuerdo a nuestro sistema operativo.
+
+![](../../Images/docker%20versions.png)
